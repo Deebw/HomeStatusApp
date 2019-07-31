@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Home Status</string>
+    <string name="tempr_title">TEMPERATURE</string>
+    <string name="humid_title">HUMIDITY</string>
+    <string name="light_title">LIGHT</string>
 </resources>
